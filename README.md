@@ -1,0 +1,1 @@
+Cleansed and preprocessed over 200,000 data records using Pandas in Python to prepare the dataset for text and sentiment analysis. Applied feature extraction techniques to classify text as positive, negative, or neutral, achieving an accuracy of 84.17%, demonstrating high reliability and correctness in predictions.
